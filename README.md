@@ -23,3 +23,5 @@ Instructions to run project:
    ./sim bimodal 6 gcc_trace.txt | less
    ./sim gshare 9 3 gcc_trace.txt | less
    ./sim hybrid 8 14 10 5 gcc_trace.txt | less
+
+The report provides context to the results obtained by the different predictor configurations.
